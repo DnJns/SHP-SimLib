@@ -18,6 +18,7 @@ The following TRNSYS subsystem models are available:
 * Solar Thermal and Heat Pump (STHP) System Control - Ice Storage Charging by the Solar Thermal Source Circuit
 * Building Energy Management System (BEMS) Control.
 
+
 ![](Figures/TRNSYS_Model.png) 
 Fig. 1. TRNSYS subsystem models. 
 
