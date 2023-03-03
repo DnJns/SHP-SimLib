@@ -33,3 +33,4 @@ Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Ene
 
 Kuethe, S., Wilhelms, C., Zass, K., Heinzen, R., Vajen, K., Jordan, U., 2008. Modelling complex systems with TRNSYS SIMULATION STUDIO. In: Proceedings of the 7th ISES EuroSun Conference (EuroSun 2008). Lisbon, Portugal.
 
+[![DOI](https://zenodo.org/badge/151547721.svg)](https://zenodo.org/badge/latestdoi/151547721)
