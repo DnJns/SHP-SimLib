@@ -30,7 +30,7 @@ The folder `add_data` contains additional data for the subsystem models with exa
 
 
 ## References
-Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings. PhD thesis, Saarland University, Saarbrücken, Germany.
+Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings. PhD thesis, Saarland University, Saarbrücken, Germany. http://dx.doi.org/10.22028/D291-40488
 
 Kuethe, S., Wilhelms, C., Zass, K., Heinzen, R., Vajen, K., Jordan, U., 2008. Modelling complex systems with TRNSYS SIMULATION STUDIO. In: Proceedings of the 7th ISES EuroSun Conference (EuroSun 2008). Lisbon, Portugal.
 
