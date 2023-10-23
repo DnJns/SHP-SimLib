@@ -1,12 +1,12 @@
 # SHP-SimLib. A library of solar and heat pump subsystem simulation models in TRNSYS.
 
-`SHP-SimLib` is a model library of solar and heat pump subsystem simulation models in TRNSYS developed within the PhD thesis *Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings* (Jonas, 2023; currently under review).
+`SHP-SimLib` is a model library of solar and heat pump subsystem simulation models in TRNSYS developed within the PhD thesis *Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings* (Jonas, 2023).
 
 ## License
 See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
 
 ## Basic idea
-`SHP-SimLib` is a compilation of TRNSYS subsystem models for the simulation of solar and heat pump systems in TRNSYS and is based on the PhD thesis *Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings* (Jonas, 2023; currently under review), with some minor modifications. 
+`SHP-SimLib` is a compilation of TRNSYS subsystem models for the simulation of solar and heat pump systems in TRNSYS and is based on the PhD thesis *Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings* (Jonas, 2023), with some minor modifications. 
 The following TRNSYS subsystem models are available:
 * Heat Pump and Heat Source Circuit - Air Source Heat Pump (ASHP)
 * Heat Pump and Heat Source Circuit - Ground Source Heat Pump (GSHP)
@@ -30,7 +30,7 @@ The folder `add_data` contains additional data for the subsystem models with exa
 
 
 ## References
-Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings. PhD thesis, Saarland University, Saarbrücken, Germany (not published, currently under review).
+Jonas, D., 2023. Model-based Analysis of Solar and Heat Pump Systems for the Energy Supply of Residential Buildings. PhD thesis, Saarland University, Saarbrücken, Germany.
 
 Kuethe, S., Wilhelms, C., Zass, K., Heinzen, R., Vajen, K., Jordan, U., 2008. Modelling complex systems with TRNSYS SIMULATION STUDIO. In: Proceedings of the 7th ISES EuroSun Conference (EuroSun 2008). Lisbon, Portugal.
 
